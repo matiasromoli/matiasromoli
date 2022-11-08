@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hola :wave:, soy Matias Rómoli - Web Developer :beginner:
+------------
 
-<!--
-**matiasromoli/matiasromoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tecnologías
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="50"/>]()
+<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="50"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50"/>
+<img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="50"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="50"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968521.png" width="50p"/>
+<img src="https://www.tutorialsteacher.com/Content/images/home/mongodb.svg" width="50px"/>
 
-Here are some ideas to get you started:
+### Proyectos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### App de tareas con persistencia de datos en archivo JSON. 
+#### Herramientas utilizadas: Node JS // Express // EJS // Flash Message.
+
+[<img src="https://media.giphy.com/media/TWn2V6FKqZQGLvd32Q/giphy.gif" width="320" height="180"/>]()
+
+
+### Contacto
+[<img src="https://cdn-icons-png.flaticon.com/512/4314/4314565.png" width="40"/>]()
+[<img src="https://cdn-icons-png.flaticon.com/512/1384/1384015.png" width="40"/>](https://www.instagram.com/matiasromoli)

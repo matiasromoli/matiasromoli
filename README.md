@@ -15,6 +15,4 @@
 [<img src="https://media.giphy.com/media/TWn2V6FKqZQGLvd32Q/giphy.gif" width="320" height="180"/>](https://taskjson-production.up.railway.app/)
 > #### App de tareas con persistencia de datos en archivo JSON. Herramientas utilizadas: Node JS // Express // EJS // Flash Message. LINK: https://taskjson-production.up.railway.app/
 
-### Contacto
-[<img src="https://cdn-icons-png.flaticon.com/512/4314/4314565.png" width="40"/>]()
-[<img src="https://cdn-icons-png.flaticon.com/512/1384/1384015.png" width="40"/>](https://www.instagram.com/matiasromoli)
+
